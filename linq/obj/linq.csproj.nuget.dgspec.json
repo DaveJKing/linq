@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/djking/Projects/linq/linq/linq.csproj": {}
+  },
+  "projects": {
+    "/Users/djking/Projects/linq/linq/linq.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/djking/Projects/linq/linq/linq.csproj",
+        "projectName": "linq",
+        "projectPath": "/Users/djking/Projects/linq/linq/linq.csproj",
+        "packagesPath": "/Users/djking/.nuget/packages/",
+        "outputPath": "/Users/djking/Projects/linq/linq/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/djking/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

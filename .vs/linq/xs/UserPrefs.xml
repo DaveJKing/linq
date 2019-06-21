@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{E2A181C2-2B21-4053-8543-D3298C726260}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="linq/Program.cs">
+    <Files>
+      <File FileName="linq/Classes.cs" Line="20" Column="6" />
+      <File FileName="linq/Program.cs" Line="44" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="linq" expanded="True">
+            <Node name="linq" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.linq PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
